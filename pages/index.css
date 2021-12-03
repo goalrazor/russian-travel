@@ -17,4 +17,11 @@
 @import url(../blocks/lead/__img/lead__img.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
 
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__text/intro__text.css);
+@import url(../blocks/intro/__list/intro__list.css);
+@import url(../blocks/intro/__el/intro__el.css);
+@import url(../blocks/intro/__el/_accent/intro__el_accent.css);
+
 @import url(../blocks/footer/footer.css);
