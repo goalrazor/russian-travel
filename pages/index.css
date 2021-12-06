@@ -22,9 +22,10 @@
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__el/intro__el.css);
-@import url(../blocks/intro/__el/_accent/intro__el_accent.css);
+@import url(../blocks/intro/__el-accent/intro__el-accent.css);
 
 @import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/__title/photo-grid__title.css);
 @import url(../blocks/photo-grid/__img/photo-grid__img.css);
 
 @import url(../blocks/places/places.css);
