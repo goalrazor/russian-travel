@@ -1,0 +1,5 @@
+.place__img {
+  max-width: 460px;
+  grid-row: 2/4;
+  grid-column: 1;
+}

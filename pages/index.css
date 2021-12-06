@@ -25,7 +25,15 @@
 @import url(../blocks/intro/__el/_accent/intro__el_accent.css);
 
 @import url(../blocks/photo-grid/photo-grid.css);
-@import url(../blocks/photo-grid/__item/photo-grid__item.css);
 @import url(../blocks/photo-grid/__img/photo-grid__img.css);
+
+@import url(../blocks/places/places.css);
+@import url(../blocks/place/place.css);
+@import url(../blocks/place/__title/place__title.css);
+@import url(../blocks/place/__website/place__website.css);
+@import url(../blocks/place/__website-title/place__website-title.css);
+@import url(../blocks/place/__website-link/place__website-link.css);
+@import url(../blocks/place/__img/place__img.css);
+@import url(../blocks/place/__paragraph/place__paragraph.css);
 
 @import url(../blocks/footer/footer.css);
