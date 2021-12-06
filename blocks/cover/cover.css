@@ -2,9 +2,19 @@
   margin: 92px auto 0;
   max-width: 1184px;
   position: relative;
+  padding-left: 48px;
+  padding-right: 48px;
 }
 
 .cover:hover .cover__overlay {
   opacity: 0.8;
   cursor: pointer;
+}
+
+@media (max-width: 1279px) {
+  .cover {
+    max-width: 1024px;
+    padding: 0;
+  }
+
 }

@@ -3,3 +3,9 @@
   grid-template-columns: repeat(2, minmax(100px, max-content));
   margin-top: 80px;
 }
+
+/* @media (max-width: 1279px) {
+  .place{
+    grid-template-columns: repeat(2, minmax(50px, max-content));
+  }
+} */
