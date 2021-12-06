@@ -1,0 +1,10 @@
+.cover {
+  margin: 92px auto 0;
+  max-width: 1184px;
+  position: relative;
+}
+
+.cover:hover .cover__overlay {
+  opacity: 0.8;
+  cursor: pointer;
+}
