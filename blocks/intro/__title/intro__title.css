@@ -10,3 +10,10 @@
     margin-top: 88px;
   }
 }
+
+@media (max-width: 767px) {
+  .intro__title {
+    margin-top: 64px;
+    font-size: 32px;
+  }
+}

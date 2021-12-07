@@ -9,3 +9,10 @@
     margin-top: 73px;
   }
 }
+
+@media (max-width: 767px) {
+  .place {
+    display: block;
+    margin-top: 50px;
+  }
+}

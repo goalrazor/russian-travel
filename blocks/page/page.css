@@ -7,3 +7,9 @@
   font-family: 'Inter', Arial, sans-serif;
   color: #fff;
 }
+
+@media (max-width: 767px) {
+  .page {
+    padding-top: 16px;
+  }
+}

@@ -6,3 +6,10 @@
   text-align: right;
   color: #fff;
 }
+
+@media (max-width: 767px) {
+  .footer__copyright-text {
+    margin-top: 46px;
+    line-height: 100%;
+  }
+}

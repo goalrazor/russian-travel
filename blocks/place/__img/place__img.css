@@ -13,3 +13,10 @@
     max-width: 340px;
   }
 }
+
+@media (max-width: 767px) {
+  .place__img{
+    max-width: 320px;
+    margin-bottom: 32px;
+  }
+}
