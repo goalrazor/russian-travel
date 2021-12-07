@@ -5,3 +5,15 @@
   margin: 0 0 48px;
   padding-left: 40px;
 }
+
+@media (max-width: 1278px) {
+  .place__website {
+    padding-left: 32px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .place__website {
+    padding-left: 28px;
+  }
+}

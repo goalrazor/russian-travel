@@ -7,3 +7,9 @@
     max-width: 440px;
   }
 }
+
+@media (max-width: 1024px) {
+  .place__img{
+    max-width: 340px;
+  }
+}
