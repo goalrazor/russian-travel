@@ -10,7 +10,7 @@
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 690px) {
   .place {
     display: block;
     margin-top: 50px;
