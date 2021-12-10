@@ -6,6 +6,8 @@
   text-align: right;
   color: #fff;
   margin: 0;
+  font-family: 'Inter', Arial, sans-serif;
+  color: #fff;
 }
 
 @media (max-width: 767px) {

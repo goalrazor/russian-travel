@@ -4,6 +4,8 @@
   flex-direction: column;
   margin: 0 0 48px;
   padding-left: 40px;
+  font-family: 'Inter', Arial, sans-serif;
+  color: #fff;
 }
 
 @media (max-width: 1278px) {

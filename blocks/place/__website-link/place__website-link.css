@@ -8,6 +8,8 @@
   text-decoration-line: underline;
   margin: 12px 0 0;
   transition: opacity 0.5s;
+  font-family: 'Inter', Arial, sans-serif;
+  color: #fff;
 }
 
 .place__website-link:hover {
