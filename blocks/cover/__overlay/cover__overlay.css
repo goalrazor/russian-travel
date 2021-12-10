@@ -12,3 +12,7 @@
   transition: opacity 0.5s;
 }
 
+.cover:hover .cover__overlay {
+  opacity: 0.8;
+  cursor: pointer;
+}

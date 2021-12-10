@@ -5,6 +5,11 @@
   line-height: 111%;
   font-style: 400;
   margin-left: 18px;
+  transform: opacity 0,5s;
+}
+
+.header__link:hover {
+  opacity: 0.8;
 }
 
 @media (max-width: 767px) {

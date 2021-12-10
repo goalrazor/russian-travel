@@ -5,10 +5,11 @@
   line-height: 114%;
   text-align: right;
   color: #fff;
+  margin: 0;
 }
 
 @media (max-width: 767px) {
-  .footer__copyright-text {
+  .footer__copyright {
     margin-top: 46px;
     line-height: 100%;
   }
