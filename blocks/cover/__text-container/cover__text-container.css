@@ -8,6 +8,8 @@
   aspect-ratio: 15.98/9.98;
   color: #fff;
   text-decoration: none;
+  position: relative;
+  z-index: 1;
 }
 
 @media (max-width: 320px) {
